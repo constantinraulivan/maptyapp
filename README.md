@@ -22,6 +22,4 @@ It is a web application that helps you keep track of the routes you have taken o
 
 # The purpose of the application in the learning process
 
-The purpose of the application in the learning process:
-
 In this application, I have learned a great deal about APIs and how to utilize them, with a particular focus on the Geolocation API. Additionally, I have gained a deeper understanding of advanced DOM manipulation techniques and worked with Local Storage.
