@@ -2,8 +2,12 @@
 
 It is a web application that helps you keep track of the routes you have taken on a map. These routes can be both for running and cycling, with the distance and duration of the route being recorded in both cases.
 
-![image](https://github.com/constantinraulivan/maptyapp/assets/108687645/5add6960-64d3-4db5-b99c-578047949ad1)
+![image](https://github.com/constantinraulivan/maptyapp/assets/108687645/824ef0c2-c5b8-4abe-8087-ae470ab66bb4)
 
+
+# Live
+
+[Mapty App](https://constantinraulivan.github.io/maptyapp/)
 
 
 # Main functionalities
@@ -15,9 +19,7 @@ It is a web application that helps you keep track of the routes you have taken o
 - Automatically zooming in on the location of the route when clicking the informations about it
 - Storing all routes for each user
 
-# Live
 
-[Mapty App](https://constantinraulivan.github.io/maptyapp/)
 
 
 # The purpose of the application in the learning process
